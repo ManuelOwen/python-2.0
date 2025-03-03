@@ -1,9 +1,11 @@
-x = 10
+x = 30
 
-if x >10 :
-        print ('x is greater than 10 ')
-elif x <10:
-        print ('x is less than 10')
+if x >30 :
+        print ('x is greater than 30 ')
+elif x <30:
+        print ('x is less than 30')
 else:
-        print ('x is equal to 10')
+        print ('x is equal to 30')
+   
+   
    
